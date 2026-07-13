@@ -1,3 +1,4 @@
+
 # 👋 Hi, I am **Gabriel Pedro Aurélio**
 
 > Aspiring Back-End Engineer • Systems Builder • Continuous Architecture Learner
@@ -48,13 +49,13 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
 <div align="center">
   <table align="center">
     <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/fastify/000000" width="50" height="50" alt="Fastify" />
+      <br>Fastify
+    </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot" />
-        <br>Spring Boot
+        <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS" />
+        <br>NestJS
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
@@ -127,14 +128,16 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
 ## 📂 Featured Projects
 
 ### 🏫 School Document & Academic Management System (SIGE)
-An enterprise-oriented system designed to automate academic document validation and issuance (Declarations, Certificates, and Report Cards). 
-* **Key Features:** Secure document management, background automation workflows, and structured academic data management.
-* **Tech Stack:** Full-stack architecture backed by robust relational database design.
+An enterprise-oriented system designed to automate academic document validation and issuance (Declarations, Certificates, and Report Cards).
+
+- **Key Features:** Secure document management, background automation workflows, and structured academic data management.
+- **Tech Stack:** Full-stack architecture backed by robust relational database design.
 
 ### 💼 Portfolio Admin Dashboard (CMS Platform)
 A custom Content Management System built to dynamically manage my digital portfolio platform.
-* **Key Features:** Secure administrative control panel, secure authentication layers, and dynamic content serving (skills, projects, and incoming contact requests/emails).
-* **Tech Stack:** Full-stack environment with secure API management.
+
+- **Key Features:** Secure administrative control panel, secure authentication layers, and dynamic content serving (skills, projects, and incoming contact requests/emails).
+- **Tech Stack:** Full-stack environment with secure API management.
 
 ---
 
@@ -159,3 +162,4 @@ A custom Content Management System built to dynamically manage my digital portfo
   </a>
 
 </div>
+
