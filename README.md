@@ -1,4 +1,3 @@
-
 # 👋 Hi, I am **Gabriel Pedro Aurélio**
 
 > Software Engineer • Systems Builder • Continuous Architecture Learner
@@ -26,9 +25,9 @@ My core focus is designing solutions that are:
 ## 🎯 Career Ambitions
 
 I am building a rock-solid foundation to actively contribute to complex enterprise engineering fields, focusing on:
-- 🌐 **Full-Stack Development of Complex Systems**
-- 🗄️ **Data Engineering & Database Optimization**
-- ⚙️ **Infrastructure, Devops & Linux Environments**
+- 🌐 **Full-Stack Development of Complex Systems (Node.js & React/Next.js)**
+- 🗄️ **Data Engineering & Database Optimization (PostgreSQL & MongoDB)**
+- ⚙️ **Infrastructure, DevOps & Linux Environments (Docker & Linux)**
 - 🛡️ **Cybersecurity (Secure Coding & Infrastructure Hardening)**
 
 My long-term goal is to fully design, build, and maintain production-grade ecosystems — from the database engine to the frontend interface.
@@ -36,11 +35,12 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
 ---
 
 ## 🚀 Current Focus Areas
-
-- Application structuring using clean separation of concerns.
-- Database modeling and query optimization (PostgreSQL).
-- Professional version control and collaborative Git workflows.
-- Technical documentation as a core part of the development lifecycle.
+ 
+- Application structuring using clean separation of concerns and modular architectures.
+- Backend API development with NestJS and Fastify.
+- Database modeling, indexing, and query optimization (PostgreSQL & MongoDB).
+- Containerization and orchestration with Docker and Docker Compose.
+- Linux server administration and professional Git/GitHub workflows.
 
 ---
 
@@ -58,62 +58,48 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
         <br>Node.js
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastify" width="50" height="50" alt="Fastify" />
+        <br>Fastify
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />
         <br>TypeScript
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
-        <br>Angular
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+        <br>Next.js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash/Shell" />
-        <br>Bash/Shell
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
-        <br>PHP
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />
-        <br>MySQL
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+        <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="Ubuntu Server" />
-        <br>Ubuntu Linux
+        <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+        <br>Linux
       </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
         <br>Git
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
         <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="50" height="50" alt="UML" />
-        <br>UML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-        <br>CSS
       </td>
     </tr>
   </table>
@@ -125,7 +111,7 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgary&theme=tokyo-night&hide_border=true&radius=10" alt="GitHub Activity" />
 </div>
-  
+ 
 ## ✉️ Connect With Me
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
@@ -147,4 +133,3 @@ My long-term goal is to fully design, build, and maintain production-grade ecosy
   </a>
 
 </div>
-
